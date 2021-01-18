@@ -2,11 +2,11 @@
 Design patterns with descriptions and Java examples
 
 Creational Design Patterns:
-* Factory Method
-* Abstract Factory
-* Singleton
-* Prototype
+* [Abstract Factory](abstract-factory/)
+* [Factory Method](factory-method/)
+* [Prototype](prototype/)
+* [Singleton](singleton/)
 
 Sources:
-https://refactoring.guru/
-https://en.wikipedia.org/wiki/Design_Patterns
+* https://refactoring.guru/
+* https://en.wikipedia.org/wiki/Design_Patterns
