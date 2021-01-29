@@ -8,6 +8,9 @@ Creational Design Patterns:
 * [Prototype](prototype/)
 * [Singleton](singleton/)
 
+Structural Design Patterns:
+* [Adapter](adapter/)
+
 Sources:
 * https://refactoring.guru/
 * https://en.wikipedia.org/wiki/Design_Patterns
