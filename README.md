@@ -10,6 +10,7 @@ Creational Design Patterns:
 
 Structural Design Patterns:
 * [Adapter](adapter/)
+* [Bridge](bridge/)
 
 Sources:
 * https://refactoring.guru/
