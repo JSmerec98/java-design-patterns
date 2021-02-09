@@ -12,6 +12,7 @@ Structural Design Patterns:
 * [Adapter](adapter/)
 * [Bridge](bridge/)
 * [Composite](composite/)
+* [Decorator](decorator/)
 
 Sources:
 * https://refactoring.guru/
